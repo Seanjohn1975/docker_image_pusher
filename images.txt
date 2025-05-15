@@ -2,3 +2,4 @@ quay.io/biocontainers/fastqc:0.12.1--hdfd78af_0
 biocontainers/fastqc
 registry.cn-hangzhou.aliyuncs.com/biocontainers/fastqc
 docker.mirrors.ustc.edu.cn/biocontainers/fastqc
+https://kgithub.com/NVIDIA/libnvidia-container.git
